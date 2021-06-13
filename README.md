@@ -1,2 +1,3 @@
 # AWSandTerraform
-Read the description of the file before using it.
+Parameters which are empty are to be filled with access key and secret key information as well as IP address where ever cidr blocks are mentioned. 
+Use Terraform Apply to execute.
