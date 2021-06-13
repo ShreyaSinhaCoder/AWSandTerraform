@@ -132,4 +132,4 @@ resource "aws_instance" "web-server-instance" {
     Name = "web-server"
   }
 }
-
+ #Special Mention to FreeCodeCamp!
